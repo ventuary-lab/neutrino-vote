@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "serve": "serve -s build"
+    "serve": "node server.js"
   },
   "browserslist": {
     "production": [
