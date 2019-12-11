@@ -1,6 +1,6 @@
 FROM node:12-alpine
 
-COPY package.json package-lock.json /app/
+COPY package.json package-lock.json server.js /app/
 
 WORKDIR /app
 
