@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import { invokeScript, address, nodeInteraction, broadcast, waitForTx, balance, assetBalance, seedUtils, lease, cancelLease } from "@waves/waves-transactions"
 
 class App extends Component {
   nodeUrl = "https://nodes.wavesnodes.com"
