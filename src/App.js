@@ -50,7 +50,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="App align-x-y">
         <link
           href="https://fonts.googleapis.com/css?family=Montserrat&display=swap"
           rel="stylesheet"
